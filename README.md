@@ -1,3 +1,5 @@
+COMP2156 – Developer Operations
+
 Github action and node project example
 
 References
